@@ -11,6 +11,8 @@ release:1.0{
 
 
 release:1.1{
+DeleteFile:d.exe,
+DeleteFile:e.exe
 DownloadFile:d.exe,
 DownloadFile:e.exe,
 DownloadFile:changelog.txt
