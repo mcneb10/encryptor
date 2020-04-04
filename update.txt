@@ -1,0 +1,19 @@
+releases{
+1.0
+1.1
+}
+
+
+release:1.0{
+  DownloadFile:d.exe,
+  DownloadFile:e.exe
+}
+
+
+release:1.1{
+DownloadFile:d.exe,
+DownloadFile:e.exe,
+DownloadFile:changelog.txt
+}
+
+
